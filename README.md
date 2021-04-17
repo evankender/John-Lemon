@@ -1,4 +1,3 @@
-# 3d
 
  Dot product used to angle the gargoyles towards the player
  
